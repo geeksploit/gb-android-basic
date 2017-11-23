@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Introduction</string>
+    <string name="app_name_new">My Weather App</string>
+    <string name="center_image_description">icon</string>
+</resources>
